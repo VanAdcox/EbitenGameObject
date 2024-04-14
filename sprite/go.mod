@@ -1,4 +1,4 @@
-module github.com/VanAdcox/EbitenSprites
+module github.com/VanAdcox/EbitenGameObject/sprite
 
 go 1.22.2
 
